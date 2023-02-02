@@ -46,8 +46,8 @@ In conclusion, the use of computer vision to detect TFM-codes on objects in the 
 - This development plan outlines the key steps in the development of the computer vision TFM-code detection system. The plan provides a roadmap for the project, ensuring that the system is developed efficiently and effectively, and meets the requirements of stakeholders.
 
 ### Creators: 
-Henrik Brendhagen
-Ivar Jørstad (PhD)
+- Henrik Brendhagen
+- Ivar Jørstad (PhD)
 
 
 
